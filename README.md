@@ -28,10 +28,6 @@ Successfully delivered **two 64.2 m Large Patrol Crafts (LPCs)** for the **Bangl
 | **Role** | Naval Architect |
 | **Length Overall** | **64.2 m (Min.)** |
 | **Breadth** | **9.0 m (Min.)** |
-| **Depth (Moulded)** | **5.1 m (Min.)** |
-| **Maximum Draught** | **4.0 m** |
-| **Displacement (Full Load)** | **674 tonnes** |
-| **Displacement (Normal Load)** | **640 tonnes** |
 | **Delivery** | **2018** |
 
 ---
