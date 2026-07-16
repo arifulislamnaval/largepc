@@ -26,8 +26,8 @@ Successfully delivered **two 64.2 m Large Patrol Crafts (LPCs)** for the **Bangl
 |:-----------|:----------------|
 | **Project** | 2 × Large Patrol Craft (LPC) |
 | **Role** | Naval Architect |
-| **Length Overall** | **64.2 m (Min.)** |
-| **Breadth** | **9.0 m (Min.)** |
+| **Length Overall** | **64.2 m ** |
+| **Breadth** | **9.0 m ** |
 | **Delivery** | **2018** |
 
 ---
