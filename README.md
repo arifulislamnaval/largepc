@@ -1,7 +1,7 @@
 # 🚤 2 × Large Patrol Craft (LPC)
 
 <p align="center">
-  <img src="./lpc.JPG" alt="Large Patrol Craft" width="100%">
+  <img src="./lpc.jpg" alt="Large Patrol Craft" width="100%">
 </p>
 
 <h2 align="center">2 × Large Patrol Craft (LPC)</h2>
