@@ -13,7 +13,7 @@ Naval Architect | Design Review | Design Management | Class Compliance
 
 <p align="center">
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Delivered-2018-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Delivered-2017-orange?style=for-the-badge"/>
 </p>
 
 ---
@@ -28,7 +28,7 @@ Successfully delivered **two 64.2 m Large Patrol Crafts (LPCs)** for the **Bangl
 | **Role** | Naval Architect |
 | **Length Overall** | **64.2 m ** |
 | **Breadth** | **9.0 m ** |
-| **Delivery** | **2018** |
+| **Delivery** | **2017** |
 
 ---
 
