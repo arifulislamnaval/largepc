@@ -29,7 +29,7 @@ Successfully delivered **two 64.2 m Large Patrol Crafts (LPCs)** for the **Bangl
 | **Length Overall** | **64.2 m** |
 | **Breadth** | **9.0 m** |
 | **Delivery** | **2017** |
-
+| **Speed** | **27 Knots** |
 ---
 
 ## 👨‍💼 Engineering Contributions
