@@ -20,7 +20,7 @@ Naval Architect | Design Review | Design Management | Class Compliance
 
 ## 📌 Project Summary
 
-Successfully delivered **two 64.2 m Large Patrol Crafts (LPCs)** for the **Bangladesh Navy** in **2018**. Designed for **anti-submarine warfare (ASW), coastal patrol, maritime surveillance, EEZ protection, and surface self-defence**, the project involved engineering design review, design management, contract compliance, and classification compliance from detailed engineering through construction, sea trials, and final delivery.
+Successfully delivered **two 64.2 m Large Patrol Crafts (LPCs)** for the **Bangladesh Navy** in **2018**. The project involved engineering design review, design management, contract compliance, and classification compliance from detailed engineering through construction, sea trials, and final delivery.
 
 | **Client** | Bangladesh Navy |
 |:-----------|:----------------|
